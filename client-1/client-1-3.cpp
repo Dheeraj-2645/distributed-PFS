@@ -78,7 +78,7 @@ int main(int argc, char *argv[]) {
     }
     if (pfs_open("pfs_file1", 1) != -1) {
         fprintf(stderr, "File deleted, but file opened.\n");
-        // return -1; // THIS IS AN ERROR, but continue for explanation purposes
+        return -1; // THIS IS AN ERROR, but continue for explanation purposes
     }
 
     // Write the PFS file locally

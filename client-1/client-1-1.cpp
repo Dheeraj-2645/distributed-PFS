@@ -18,6 +18,7 @@ int main(int argc, char *argv[]) {
 
     // Open a file
     std::string input_filename(argv[1]);
+    std::cout << input_filename << std::endl;
     int input_fd = open(input_filename.c_str(), O_RDONLY);
     char *buf = (char *)malloc(8 * 1024);
     ssize_t nread = pread(input_fd, (void *)buf, 1024, 0);

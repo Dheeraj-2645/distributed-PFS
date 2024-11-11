@@ -1,5 +1,5 @@
-e5-cse-135-08.cse.psu.edu:58888
-e5-cse-135-05.cse.psu.edu:57777
-e5-cse-135-20.cse.psu.edu:51111
-e5-cse-135-14.cse.psu.edu:57777
-e5-cse-135-02.cse.psu.edu:51234
+e5-cse-135-01.cse.psu.edu:50913
+e5-cse-135-06.cse.psu.edu:51547
+e5-cse-135-25.cse.psu.edu:52203
+e5-cse-135-16.cse.psu.edu:53789
+e5-cse-135-03.cse.psu.edu:54988
